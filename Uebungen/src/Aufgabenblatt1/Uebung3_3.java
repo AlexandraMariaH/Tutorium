@@ -1,10 +1,12 @@
+package Aufgabenblatt1;
+
 import java.util.Scanner;
 
 public class Uebung3_3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String eingabe = "initial";
+        String eingabe = "z";
         while (!eingabe. equals("e")) {
             System.out.print("Bitte den Char eingeben >");
             eingabe = sc.nextLine();

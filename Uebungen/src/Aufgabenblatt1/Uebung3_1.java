@@ -1,3 +1,5 @@
+package Aufgabenblatt1;
+
 import java.util.Scanner;
 
 public class Uebung3_1 {
